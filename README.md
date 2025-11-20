@@ -1,0 +1,2 @@
+La tarea esta resuelta principalmente en los códigos de R, van del ejercicio 1 al ejercicio 5, hay secciones en el código con mensajes como "aquí va el código de latex", lo que indica que para esa sección, que esto lo hago para cada sección, hay una extensión de la respuesta en el archivo de latex, dicha sección está claramente identificada en el documento de latex.  
+<img width="1287" height="740" alt="image" src="https://github.com/user-attachments/assets/b64fb174-60f9-4425-8ed0-a05236bb7ad0" />
