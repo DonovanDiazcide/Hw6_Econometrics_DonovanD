@@ -20,7 +20,8 @@
 
 - En el archivo **README.md** del repositorio incluyo **dos capturas de pantalla** donde muestro, con un ejemplo, cómo se resuelve cada inciso combinando el archivo de R y el PDF.
 
-Aquí hay un ejemplo de como se ve lo anterior en el código: <img width="1161" height="870" alt="image" src="https://github.com/user-attachments/assets/db5cc09b-f9c2-4b6e-9b41-6f83d9ccc1fe" />
+Aquí hay un ejemplo de como se ve lo anterior en el código: <img width="1052" height="813" alt="image" src="https://github.com/user-attachments/assets/f9cb0993-c2ba-478e-b5f4-e903229b25fa" />
+
 <img width="648" height="766" alt="image" src="https://github.com/user-attachments/assets/70cd8b2e-a0bd-4519-b6c9-41e6a3af39e6" />
 
 
